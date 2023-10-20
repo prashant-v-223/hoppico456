@@ -124,40 +124,6 @@ function Home() {
                   <div className="WhKF32">
                     <div className="IF3BzC">
                       <div className="_1fhgRH">
-                        <div className="row">
-                          <div className="col-sm-12 p-0">
-                            <div
-                              id="carouselExampleIndicators"
-                              class="carousel carousel-dark slide"
-                              data-ride="carousel"
-                            >
-                              <Slider {...settings}>
-                                <div className="">
-                                  <img
-                                    className="d-block w-100"
-                                    src="https://firebasestorage.googleapis.com/v0/b/doubtq-student.appspot.com/o/8a86549c-b5b9-47fb-81dd-3e185f1c8897.jfif?alt=media&token=9f0394fa-0570-4db2-9331-54c09ae7ea5d&_gl=1*iak9wu*_ga*OTgwMjYzMTIyLjE2ODM5NTgxMTM.*_ga_CW55HF8NVT*MTY5NzYxOTQwMy4xMy4xLjE2OTc2MTk1NzYuNTguMC4w"
-                                    alt="First slide"
-                                  />
-                                </div>
-                                <div className="">
-                                  <img
-                                    className="d-block w-100"
-                                    src="https://firebasestorage.googleapis.com/v0/b/doubtq-student.appspot.com/o/029d8c22-eece-4f42-afb2-d54498798844.jfif?alt=media&token=39798b00-bf6d-499d-9693-591fb4345759&_gl=1*g9acu5*_ga*OTgwMjYzMTIyLjE2ODM5NTgxMTM.*_ga_CW55HF8NVT*MTY5NzYxOTQwMy4xMy4xLjE2OTc2MTk2MDcuMjcuMC4w"
-                                    alt="Second slide"
-                                  />
-                                </div>
-                                <div className="">
-                                  <img
-                                    className="d-block w-100"
-                                    src="https://firebasestorage.googleapis.com/v0/b/doubtq-student.appspot.com/o/3f4cc7d1-b39d-48bb-b9e0-9dc7da539120.jfif?alt=media&token=e4a19a45-75f4-4cfb-a44a-f0c74057a37e&_gl=1*139pd7p*_ga*OTgwMjYzMTIyLjE2ODM5NTgxMTM.*_ga_CW55HF8NVT*MTY5NzYxOTQwMy4xMy4xLjE2OTc2MTk2MzIuMi4wLjA."
-                                    alt="Third slide"
-                                  />
-                                </div>
-                              </Slider>
-                            </div>
-
-                          </div>
-                        </div>
                         <div
                           className="_1QM2o6 _1isCBQ"
                           style={{ margin: "0 0 16px" }}
